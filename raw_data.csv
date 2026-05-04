@@ -1,0 +1,7 @@
+student_id, math_score , reading_score , writing_score, study_hours
+1,85,92,88,4.5
+2,62,70,,2.0
+3,95,,98,6.0
+4,78,82,80,3.5
+5,65,55,1.5
+6,88,90,92,5.0
